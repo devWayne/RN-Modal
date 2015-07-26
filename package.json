@@ -1,0 +1,19 @@
+{
+  "name": "rn-modal",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devWayne/RN-Modal.git"
+  },
+  "author": "VI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devWayne/RN-Modal/issues"
+  },
+  "homepage": "https://github.com/devWayne/RN-Modal#readme"
+}

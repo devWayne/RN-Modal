@@ -1,5 +1,5 @@
 {
-  "name": "rn-modal",
+  "name": "react-native-modal",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devWayne/RN-Modal.git"
+    "url": "git+https://github.com/devWayne/react-native-modal.git"
   },
   "author": "VI",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/devWayne/RN-Modal/issues"
+    "url": "https://github.com/devWayne/react-native-modal/issues"
   },
-  "homepage": "https://github.com/devWayne/RN-Modal#readme"
+  "homepage": "https://github.com/devWayne/react-native-modal#readme",
+  "dependencies": {
+    "react-native": "^0.8.0",
+    "react-native-overlay": "^0.2.8"
+  }
 }
